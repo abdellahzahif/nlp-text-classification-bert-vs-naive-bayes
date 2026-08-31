@@ -1,0 +1,15 @@
+# Python & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+myenv/
+
+# Model Checkpoints & Data
+*.pkl
+*.cpt
+checkpoints/
+data/*.json
+
+# Logs
+wandb/
